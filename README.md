@@ -8,7 +8,7 @@ Are we already well on our way or is there still a long way to go regarding sust
 
 The Team MCJ will provide these insight in a story while using Tableau.
 
-# Goal of the project, is to guide investors towards sustainable energy opportunities in investment strategies.
+## Goal of the project, is to guide investors towards sustainable energy opportunities in investment strategies.
 
 Using Dataset: Global Data on Sustanaible Energy (2000 - 2020), rows 3650
 latest version from September 1st 2023
