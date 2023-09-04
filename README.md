@@ -17,5 +17,31 @@ Link to download dataset: https://www.kaggle.com/datasets/anshtanwar/global-data
 
 Link to pitch presentation: https://docs.google.com/presentation/d/1XFH-Lg3zY6NaicV2ug3q_MoNkWt3G_1u0t6xLRUJjnM/edit?usp=sharing
 
----------- test --------------
 
+**Monday (Day 1): Data Understanding & Cleaning**
+
+----> PITCH PRESENTATION 11 AM
+  
+1. **Dataset Familiarization**: Everyone gets a quick overview of the dataset.
+2. **Define the Scope**: Discuss as a group to decide which specific questions or themes you want to address.
+3. **Data Cleaning & Pre-processing**: Using SQL or Python (like pandas), clean the data. Look for missing values, outliers, duplicate rows, and correct data types.
+4. **Data Validation**: After cleaning, validate a sample to ensure the accuracy of your cleaning process.
+
+**Tuesday (Day 2): Data Exploration & Visualization Drafting**
+
+1. **Data Exploration**: Dive deep into the data using both statistical methods and visual tools to understand the distribution and relationships of the variables.
+2. **Sketch Visualization Ideas**: Create rough sketches (even on paper) of the types of visualizations that will most effectively communicate your insights.
+3. **Begin Visualization**: Start creating the visualizations in Tableau based on your sketches.
+4. **Group Feedback**: Present the initial visualizations to your group for feedback.
+
+**Wednesday (Day 3): Finalize Visualization & Reporting**
+
+1. **Improve and Finalize Visualizations**: Refine and finalize your visualizations in Tableau.
+2. **Start Report Draft**: Begin drafting the insights and findings.
+3. **Complete the Report**: Ensure the report is structured, easy to read, and effectively communicates your findings to the target audience.
+
+**Thursday (Day 4): Review, Debugging, and Final Touches**
+
+1. **Prepare Presentation Slides**: Create a comprehensive slide deck for your findings, ensuring that it aligns with your report and visualizations.
+2. **Incorporate Feedback from Day 3**: Make necessary adjustments based on the group feedback from Day 3.
+3. **Debugging and Final Adjustments**: Fix any issues or gaps that might exist in the visualizations, report, or presentation slides.
